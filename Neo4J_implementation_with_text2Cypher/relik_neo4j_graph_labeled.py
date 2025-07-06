@@ -15,7 +15,7 @@ CSV_PATH       = "data/Updated_Synthetic_Dataset__500_Rows_.csv"
 DESC_PATH      = "data/descriptions.json"
 NEO4J_URI      = "bolt://localhost:7687"
 NEO4J_USER     = "neo4j"
-NEO4J_PASSWORD = "Zonunpuia@3104"  # ← your password
+NEO4J_PASSWORD = ""  # ← your password
 
 # === CLEAR ENTIRE GRAPH ===
 def clear_graph(tx):
